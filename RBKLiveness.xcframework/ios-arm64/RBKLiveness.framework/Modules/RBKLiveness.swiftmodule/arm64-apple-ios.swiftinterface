@@ -26,7 +26,7 @@ public enum RBKLivenessMessage {
   case succeeded
   case alert(RBKLiveness.RBKLivenessAlert)
   case pass(RBKLiveness.RBKLivenessAction)
-  case passed((RBKLiveness.RBKLivenessAction, UIKit.UIImage?))
+  case passed(RBKLiveness.RBKLivenessResult)
   case imageCaptureError
 }
 public protocol RBKLivenessDataSource : AnyObject {
@@ -41,10 +41,15 @@ extension RBKLiveness.RBKLivenessDataSource {
   public func liveness(descriptionTextForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
   public func liveness(textForPassedAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
 }
+@_hasMissingDesignatedInitializers public class RBKLivenessResult {
+  final public let action: RBKLiveness.RBKLivenessAction
+  final public let image: UIKit.UIImage?
+  @objc deinit
+}
 public protocol RBKLivenessDelegate : AnyObject {
   func liveness(didCaptureFaceIn image: UIKit.UIImage)
   func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
-  func liveness(didPassActionWith result: (RBKLiveness.RBKLivenessAction, UIKit.UIImage?))
+  func liveness(didPassActionWith result: RBKLiveness.RBKLivenessResult)
   func livenessDidSucceed()
 }
 extension RBKLiveness.RBKLivenessDelegate {
