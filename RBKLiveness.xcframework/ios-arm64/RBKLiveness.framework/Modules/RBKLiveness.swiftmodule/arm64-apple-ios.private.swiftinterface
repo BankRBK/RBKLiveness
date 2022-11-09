@@ -1,0 +1,108 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name RBKLiveness
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import CoreVideo
+import Foundation
+@_exported import RBKLiveness
+import Swift
+import UIKit.UIImage
+import UIKit
+import _Concurrency
+import _StringProcessing
+public enum RBKLivenessAlert {
+  case faceNotFound
+  case singleFace
+  case straightHeadOpenEyes
+  case headOutOfBounds
+  public static func == (a: RBKLiveness.RBKLivenessAlert, b: RBKLiveness.RBKLivenessAlert) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum RBKLivenessMessage {
+  case succeeded
+  case alert(RBKLiveness.RBKLivenessAlert)
+  case pass(RBKLiveness.RBKLivenessAction)
+  case passed((RBKLiveness.RBKLivenessAction, UIKit.UIImage?))
+  case imageCaptureError
+}
+public protocol RBKLivenessDataSource : AnyObject {
+  func liveness(textForAlert alert: RBKLiveness.RBKLivenessAlert) -> Swift.String?
+  func liveness(textForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
+  func liveness(descriptionTextForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
+  func liveness(textForPassedAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
+}
+extension RBKLiveness.RBKLivenessDataSource {
+  public func liveness(textForAlert alert: RBKLiveness.RBKLivenessAlert) -> Swift.String?
+  public func liveness(textForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
+  public func liveness(descriptionTextForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
+  public func liveness(textForPassedAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
+}
+public protocol RBKLivenessDelegate : AnyObject {
+  func liveness(didCaptureFaceIn image: UIKit.UIImage)
+  func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
+  func liveness(didPassActionWith result: (RBKLiveness.RBKLivenessAction, UIKit.UIImage?))
+  func livenessDidSucceed()
+}
+extension RBKLiveness.RBKLivenessDelegate {
+  public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
+}
+@_hasMissingDesignatedInitializers final public class RBKLivenessApplication {
+  final public class func register()
+  @objc deinit
+}
+public enum RBKLivenessAction {
+  case smile
+  case turnLeft
+  case turnRight
+  case leanLeft
+  case leanRight
+  case blink
+  case openMouth
+  public static func generate() -> [RBKLiveness.RBKLivenessAction]
+  public static func == (a: RBKLiveness.RBKLivenessAction, b: RBKLiveness.RBKLivenessAction) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class RBKLivenessViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) weak public var delegate: RBKLiveness.RBKLivenessDelegate?
+  @_Concurrency.MainActor(unsafe) weak public var dataSource: RBKLiveness.RBKLivenessDataSource?
+  @_Concurrency.MainActor(unsafe) public var titleColor: UIKit.UIColor
+  @_Concurrency.MainActor(unsafe) public var loadingText: Swift.String?
+  @_Concurrency.MainActor(unsafe) public var actions: [RBKLiveness.RBKLivenessAction]
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
+  @objc deinit
+}
+extension RBKLiveness.RBKLivenessViewController {
+  @_Concurrency.MainActor(unsafe) public var titleFont: UIKit.UIFont {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var descriptionFont: UIKit.UIFont {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var descriptionColor: UIKit.UIColor {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var activityIndicatorColor: UIKit.UIColor {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var isActivityIndicatorLoading: Swift.Bool {
+    get
+    set
+  }
+}
+extension RBKLiveness.RBKLivenessAlert : Swift.Equatable {}
+extension RBKLiveness.RBKLivenessAlert : Swift.Hashable {}
+extension RBKLiveness.RBKLivenessAction : Swift.Equatable {}
+extension RBKLiveness.RBKLivenessAction : Swift.Hashable {}
