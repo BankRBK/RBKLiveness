@@ -15,91 +15,91 @@ pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag '1
 To register your app use the RBKLivenessApplication.register() method:
 
 ```swift
-    func application(
-        _ application: UIApplication,
-        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-    ) -> Bool {
-        RBKLivenessApplication.register()
+func application(
+    _ application: UIApplication,
+    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+) -> Bool {
+    RBKLivenessApplication.register()
 
-        // your code...
+    // your code...
 
-        return true
-    }
+    return true
+}
 ```
 
 You can create a view controller that will capture face:
 
 ```swift
-    let viewController = RBKLivenessViewController()
+let viewController = RBKLivenessViewController()
 
-    // You can skip this step, it will be generated automatically
-    viewController.actions = [.turnLeft, .turnRight, .leanLeft, .leanRight, .smile, .openMouth, .blink] // All available actions
+// You can skip this step, it will be generated automatically
+viewController.actions = [.turnLeft, .turnRight, .leanLeft, .leanRight, .smile, .openMouth, .blink] // All available actions
 
-    // Delegate and DataSource
-    viewController.delegate = self
-    viewController.dataSource = self
+// Delegate and DataSource
+viewController.delegate = self
+viewController.dataSource = self
 
-    present(viewController, animated: true)
+present(viewController, animated: true)
 ```
 
 Available customization:
 
 ```swift
-    viewController.titleColor = .black
-    viewController.titleFont = .systemFont(ofSize: 24)
-    viewController.descriptionColor = .lightGray
-    viewController.descriptionFont = .systemFont(ofSize: 14)
-    viewController.loadingText = "Loading..."
-    viewController.activityIndicatorColor = .gray
+viewController.titleColor = .black
+viewController.titleFont = .systemFont(ofSize: 24)
+viewController.descriptionColor = .lightGray
+viewController.descriptionFont = .systemFont(ofSize: 14)
+viewController.loadingText = "Loading..."
+viewController.activityIndicatorColor = .gray
 ```
 
 Delegate methods:
 
 ```swift
-    extension YourViewController: RBKLivenessDelegate {
+extension YourViewController: RBKLivenessDelegate {
 
-        func liveness(didCaptureFaceIn image: UIImage) {}
+    func liveness(didCaptureFaceIn image: UIImage) {}
 
-        func liveness(willPassAction action: RBKLivenessAction) {}
+    func liveness(willPassAction action: RBKLivenessAction) {}
 
-        func liveness(didPassActionWith result: RBKLivenessResult) {}
+    func liveness(didPassActionWith result: RBKLivenessResult) {}
 
-        func livenessDidSucceed() {}
-    }
+    func livenessDidSucceed() {}
+}
 ```
 
 DataSource methods: 
 
 ```swift
-    extension YourViewController: RBKLivenessDataSource {
+extension YourViewController: RBKLivenessDataSource {
 
-        func liveness(textForAlert alert: RBKLivenessAlert) -> String? {
-            // example
-            switch alert {
-            case .faceNotFound: return "Face not found"
-            case .singleFace: return "There must be one person in the camera"
-            ...
-            }
-        }
-
-        func liveness(textForAction action: RBKLivenessAction) -> String? {
-            // example
-            switch action {
-            case .smile: return "Smile"
-            case .turnLeft: return "Turn left"
-            ...
-            }
-        }
-
-        func liveness(descriptionTextForAction action: RBKLivenessAction) -> String? {
-            switch action {
-            case .turnLeft: return "Slowly turn your head back and forth. Your face must remain in the camera's field of view"
-            ...
-            }
-        }
-
-        func liveness(textForPassedAction action: RBKLivenessAction) -> String? { 
-            return "Success" 
+    func liveness(textForAlert alert: RBKLivenessAlert) -> String? {
+        // example
+        switch alert {
+        case .faceNotFound: return "Face not found"
+        case .singleFace: return "There must be one person in the camera"
+        ...
         }
     }
+
+    func liveness(textForAction action: RBKLivenessAction) -> String? {
+        // example
+        switch action {
+        case .smile: return "Smile"
+        case .turnLeft: return "Turn left"
+        ...
+        }
+    }
+
+    func liveness(descriptionTextForAction action: RBKLivenessAction) -> String? {
+        switch action {
+        case .turnLeft: return "Slowly turn your head back and forth. Your face must remain in the camera's field of view"
+        ...
+        }
+    }
+
+    func liveness(textForPassedAction action: RBKLivenessAction) -> String? { 
+        return "Success" 
+    }
+}
 ```
