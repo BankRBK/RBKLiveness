@@ -1608,6 +1608,43 @@
             "moduleName": "RBKLiveness"
           },
           {
+            "kind": "Var",
+            "name": "sayWord",
+            "printedName": "sayWord",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(RBKLiveness.RBKLivenessAction.Type) -> RBKLiveness.RBKLivenessAction",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RBKLivenessAction",
+                    "printedName": "RBKLiveness.RBKLivenessAction",
+                    "usr": "s:11RBKLiveness0A6ActionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "RBKLiveness.RBKLivenessAction.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RBKLivenessAction",
+                        "printedName": "RBKLiveness.RBKLivenessAction",
+                        "usr": "s:11RBKLiveness0A6ActionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11RBKLiveness0A6ActionO7sayWordyA2CmF",
+            "mangledName": "$s11RBKLiveness0A6ActionO7sayWordyA2CmF",
+            "moduleName": "RBKLiveness"
+          },
+          {
             "kind": "Function",
             "name": "generate",
             "printedName": "generate()",
@@ -2910,91 +2947,91 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 19,
       "value": "\"RBKLiveness.RBKCameraController\""
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
       "offset": 415,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
       "offset": 531,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
       "offset": 562,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
       "offset": 594,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
       "offset": 751,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "Dictionary",
       "offset": 818,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 324,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Utils\/UIColor+extension.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/UIColor+extension.swift",
       "kind": "IntegerLiteral",
       "offset": 256,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessManager.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessManager.swift",
       "kind": "FloatLiteral",
       "offset": 288,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Liveness\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "BooleanLiteral",
       "offset": 148,
       "length": 5,

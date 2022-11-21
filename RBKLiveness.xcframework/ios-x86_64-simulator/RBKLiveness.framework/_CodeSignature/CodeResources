@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		zlQbrEgr0r5Lria4wZXtXUFELCU=
+		aDashuKsb+a3zh1vSAMqtTQ2qCw=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		s5NeirSRrT15rz6lUDJGcnNc8Y0=
+		Zi68pkrE3VdsKQ8v/yjQFxiGLYo=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		vNmXFZyH1EhO73HDCdg5Fwbf4WY=
+		us9seY+70RFBDcZZXXfk83saaP4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -90,15 +90,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HMwY7uSn65434Hr1cdAqAmdsWMo=
+		KF66M55XrGG2Vt+8RMbsLNJmWws=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		VBGD7rGetq/91QyconSuEw/UHxA=
+		Bn2P1+1Ka4iBBcDyc+SO+hqi1+c=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3CbpSH/7oI7efYcnRDMYBhCTyak=
+		ae4ZY0lMWkKpY7yWTQ1q249eTI8=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3CbpSH/7oI7efYcnRDMYBhCTyak=
+		ae4ZY0lMWkKpY7yWTQ1q249eTI8=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XsbDNvundela10xJdUcfe9CpuQA=
+		2LxqY6ji5ySPY1Mx4dFwSyF5cWM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0Gure5gh919pCLpQr6a88p1LPLUNaA7zUjReL0+xFI=
+			/bxCDzbZzllkUkiM/j5M90gfYxjAh3EdhFnxwPfke3I=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mjXHRTEtdiU4pkBO1Fk13AUETNBF4W98n+z69YtxOBg=
+			Si8YNOHXI28uZv5abgXfkBwqEYFnS7JBVZtpqEzzrHg=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -193,7 +193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9v3NcADZQfkaSn9Cahup8bvWgKoeS58m+ClH8oW3OSM=
+			3oTEjyGUL+/Lw9x2fEvlV9Pl5I72K0nK4Sm+qj5rBlA=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
@@ -270,14 +270,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kp0mQ8PNv+TKoa0lwENydfny5WVH5iey1cqa/jDHlbc=
+			vgYR+ASJ4z1XUpOWXXw/9LoX+pg7FxZ0sQ92Uwb7HVc=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8eBVlHdMlz+QkKbEZIjsZv7t1rDRzqazdKnwRj65mUk=
+			f3CO3jjlsLW7VeDAWOd31lm+iwsPYn5oZdBOFy2jyEY=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -291,14 +291,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8eBVlHdMlz+QkKbEZIjsZv7t1rDRzqazdKnwRj65mUk=
+			f3CO3jjlsLW7VeDAWOd31lm+iwsPYn5oZdBOFy2jyEY=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b7puNxLbuMbJCtWNkBM/n8/cC3hD5chly/yWZkdSvCs=
+			QZNPXnif6A3sDdtP20eoJ5CN//cTSLSsW/0gJutLQck=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

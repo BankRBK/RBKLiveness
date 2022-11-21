@@ -67,6 +67,7 @@ public enum RBKLivenessAction {
   case leanRight
   case blink
   case openMouth
+  case sayWord
   public static func generate() -> [RBKLiveness.RBKLivenessAction]
   public static func == (a: RBKLiveness.RBKLivenessAction, b: RBKLiveness.RBKLivenessAction) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
