@@ -67,6 +67,7 @@ public enum RBKLivenessAction {
   case leanRight
   case blink
   case openMouth
+  case sayWord
   public static func generate() -> [RBKLiveness.RBKLivenessAction]
   public static func == (a: RBKLiveness.RBKLivenessAction, b: RBKLiveness.RBKLivenessAction) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
@@ -79,7 +80,10 @@ public enum RBKLivenessAction {
   @_Concurrency.MainActor(unsafe) weak public var dataSource: RBKLiveness.RBKLivenessDataSource?
   @_Concurrency.MainActor(unsafe) public var titleColor: UIKit.UIColor
   @_Concurrency.MainActor(unsafe) public var loadingText: Swift.String?
-  @_Concurrency.MainActor(unsafe) public var actions: [RBKLiveness.RBKLivenessAction]
+  @_Concurrency.MainActor(unsafe) public var actions: [RBKLiveness.RBKLivenessAction] {
+    get
+    set
+  }
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
