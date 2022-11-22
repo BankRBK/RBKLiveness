@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		Yv6Cr64kV7v9v1skfcCLK6EC2Sw=
+		5oE4KwTybqcCa0c/j6vCjWXrPpw=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		dc+30ncPWRMZ9J9GGeNSvrNVPP8=
+		uIwPN3PVaG4VWRQUJ99Cy8aI+vs=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		msLwFmvowzmBGgulB771mSwqUXE=
+		ck4Z/epiS0oUdkaE2Xi31m1BBk4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		LgFTrX4+tOedmPNnICKbGdfb3QI=
+		aJJ8ych62GEO+esrpIPwzcakWcE=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
@@ -90,15 +90,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fIZa6AuaF0sEusi6zQun3tGNsz8=
+		e34UBgExEb6W84oQD7/7v8Daxec=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Bn2P1+1Ka4iBBcDyc+SO+hqi1+c=
+		3Ed49+dSJJeDaSfkIduwG8IkchU=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		SkAQ+KFiEa1nhMcn+EEx1k+nGYg=
+		C9x4UWM3UoWhs+1Mh42zlqDqEqE=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		SkAQ+KFiEa1nhMcn+EEx1k+nGYg=
+		C9x4UWM3UoWhs+1Mh42zlqDqEqE=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		YOYnvkRJ6GOVHrKt6Qm/4+HApgA=
+		fjI8F6IZnrAO5rZ4h3dL6WCrG24=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gb+U6vcmX4zTMYnFOkJxxLhB7NDnWZ0kMW6aGgvWupA=
+			Ln668YZ2t+VmtoM9rlu8E+duk6YyDLd1RO4qmT1Q6wU=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E/8yBicxkw8uZBkqEGKWwU7DDT7G0WTOv1dHNwUc3lo=
+			DBVCkR5mxy/7Y1hgBvx5G0VW+mIK1k0IgIGz0hsrErc=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -193,7 +193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ECDF/Hue+NaY/jVusFcSzY6dPiixh2TjJYGx73c4PLg=
+			zasrba6o5J260zk+mTZRZB1L4jvq84ltlfLnq7CcZL4=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
@@ -207,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VYmrED97miN1a/3Y9DY3FQAaBH1WH3/Uiavnn4ypXs8=
+			nvXYEQ9F24/iZUvBChfD2fsyP+9cOKLGjtfA78FZyiM=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
@@ -270,14 +270,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vgYR+ASJ4z1XUpOWXXw/9LoX+pg7FxZ0sQ92Uwb7HVc=
+			Os2i3vBFiTrx7aal87esXxGBzZ+9rX6MlbcSs3M76o4=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4/EBOFm9ViPAZKD+okrZPSz/6EwF4WFDswo+qnDZ9Zk=
+			33NJdXfkpTan0rio0Rgf1cRERKsCEbKk4udFZOytwvI=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -291,14 +291,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4/EBOFm9ViPAZKD+okrZPSz/6EwF4WFDswo+qnDZ9Zk=
+			33NJdXfkpTan0rio0Rgf1cRERKsCEbKk4udFZOytwvI=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BaZ0q8l10P1WBnKN1Hgf9Rg2rhsGL3fZgeDk5oSWfDk=
+			n1Vzm0kcQ9cl0vInTwtc6VkEEXE+UKNGnk0LWmiQars=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
