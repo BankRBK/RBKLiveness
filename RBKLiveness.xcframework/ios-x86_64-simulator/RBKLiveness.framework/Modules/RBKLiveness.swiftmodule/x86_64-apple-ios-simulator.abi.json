@@ -1608,6 +1608,43 @@
             "moduleName": "RBKLiveness"
           },
           {
+            "kind": "Var",
+            "name": "sayWord",
+            "printedName": "sayWord",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(RBKLiveness.RBKLivenessAction.Type) -> RBKLiveness.RBKLivenessAction",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RBKLivenessAction",
+                    "printedName": "RBKLiveness.RBKLivenessAction",
+                    "usr": "s:11RBKLiveness0A6ActionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "RBKLiveness.RBKLivenessAction.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RBKLivenessAction",
+                        "printedName": "RBKLiveness.RBKLivenessAction",
+                        "usr": "s:11RBKLiveness0A6ActionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11RBKLiveness0A6ActionO7sayWordyA2CmF",
+            "mangledName": "$s11RBKLiveness0A6ActionO7sayWordyA2CmF",
+            "moduleName": "RBKLiveness"
+          },
+          {
             "kind": "Function",
             "name": "generate",
             "printedName": "generate()",
