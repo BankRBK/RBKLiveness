@@ -63,8 +63,8 @@ public enum RBKLivenessAction {
   case smile
   case turnLeft
   case turnRight
-  case leanLeft
-  case leanRight
+  case tiltLeft
+  case tiltRight
   case blink
   case openMouth
   case sayWord

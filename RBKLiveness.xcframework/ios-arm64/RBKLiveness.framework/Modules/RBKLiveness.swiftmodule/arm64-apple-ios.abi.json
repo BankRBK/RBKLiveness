@@ -1461,8 +1461,8 @@
           },
           {
             "kind": "Var",
-            "name": "leanLeft",
-            "printedName": "leanLeft",
+            "name": "tiltLeft",
+            "printedName": "tiltLeft",
             "children": [
               {
                 "kind": "TypeFunc",
@@ -1492,14 +1492,14 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:11RBKLiveness0A6ActionO8leanLeftyA2CmF",
-            "mangledName": "$s11RBKLiveness0A6ActionO8leanLeftyA2CmF",
+            "usr": "s:11RBKLiveness0A6ActionO8tiltLeftyA2CmF",
+            "mangledName": "$s11RBKLiveness0A6ActionO8tiltLeftyA2CmF",
             "moduleName": "RBKLiveness"
           },
           {
             "kind": "Var",
-            "name": "leanRight",
-            "printedName": "leanRight",
+            "name": "tiltRight",
+            "printedName": "tiltRight",
             "children": [
               {
                 "kind": "TypeFunc",
@@ -1529,8 +1529,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:11RBKLiveness0A6ActionO9leanRightyA2CmF",
-            "mangledName": "$s11RBKLiveness0A6ActionO9leanRightyA2CmF",
+            "usr": "s:11RBKLiveness0A6ActionO9tiltRightyA2CmF",
+            "mangledName": "$s11RBKLiveness0A6ActionO9tiltRightyA2CmF",
             "moduleName": "RBKLiveness"
           },
           {
