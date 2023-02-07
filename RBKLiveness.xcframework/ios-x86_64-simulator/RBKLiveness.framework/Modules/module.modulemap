@@ -6,6 +6,6 @@ framework module RBKLiveness {
 }
 
 module RBKLiveness.Swift {
-    header "RBKLiveness-Swift.h"
-    requires objc
+  header "RBKLiveness-Swift.h"
+  requires objc
 }
