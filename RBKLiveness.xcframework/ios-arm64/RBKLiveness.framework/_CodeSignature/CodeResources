@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		+eyRPPuZ0s6jAoYfeB8jObJdGlU=
+		A6mB4fPR/Op0qRQhD7Udj8Cmx50=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		ptqn4roUq5tMxYkoDv116gHOowk=
+		g3JCE55tmt/1SeuRqyWcCuorDm4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		/oNPfTSWk213J66U6/hZ3iyV0a8=
+		hRTQ7JLuoeTfwPX5LdrCV88d/GE=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		bIwROBuY24rFLfPbUAtAVrbnuUM=
+		tSKDdzR97pjbw0GCckpfM4W9ldA=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FiHXvlYxUG8H2XSd2y6iLQtPtgA=
+		HqC9UorsiJaJBc8uor19tQTRklw=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EB0li5T+jYe33/bxHo99qj9bJ5PeUa9DvfZpd68vaNs=
+			nh3/cWTmgIzubD1et/8E/X8OOT8bwAqV3/i89ZWdYBU=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			973JrZJO2iuiERrGLm2hBzQNtgCseJ1yefEshh81p54=
+			9VBU3YJglA4+2nM7RUek3S1b0MZR5e9Y6Q16g37yDVw=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -193,7 +193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tgpVL5/Zo1VOnpw2aUoUIaFV05JFmA13zV2ZUXaDS+c=
+			psGjo9KOSwOX+Smu8owXmjPPoOcChmIZox9/WYsvEsA=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
@@ -207,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ra5jDtGSqaVxES+0PXwSm9rE08asGt+Zd8C3pW9R/8g=
+			c8l0wyyycSx8Pnobfxcqm+YOFVluwm2AEQ+Cxx+8XSY=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
