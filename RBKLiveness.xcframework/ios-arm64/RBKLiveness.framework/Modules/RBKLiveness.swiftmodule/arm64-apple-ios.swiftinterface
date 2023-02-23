@@ -56,7 +56,7 @@ extension RBKLiveness.RBKLivenessDelegate {
   public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
 }
 @_hasMissingDesignatedInitializers final public class RBKLivenessApplication {
-  final public class func register()
+  final public class func register(completion: ((Swift.Bool) -> Swift.Void)? = nil)
   @objc deinit
 }
 public enum RBKLivenessAction {

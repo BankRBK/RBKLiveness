@@ -1313,17 +1313,44 @@
           {
             "kind": "Function",
             "name": "register",
-            "printedName": "register()",
+            "printedName": "register(completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Swift.Bool) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.Bool) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:11RBKLiveness0A11ApplicationC8registeryyFZ",
-            "mangledName": "$s11RBKLiveness0A11ApplicationC8registeryyFZ",
+            "usr": "s:11RBKLiveness0A11ApplicationC8register10completionyySbcSg_tFZ",
+            "mangledName": "$s11RBKLiveness0A11ApplicationC8register10completionyySbcSg_tFZ",
             "moduleName": "RBKLiveness",
             "static": true,
             "declAttributes": [
