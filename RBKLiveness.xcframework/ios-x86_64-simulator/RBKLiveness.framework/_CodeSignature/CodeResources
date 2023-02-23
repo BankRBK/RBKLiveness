@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		1UCXDeK1cMCmFJdDs9uioNI6yMA=
+		R6toKzmn6CODI8aAE7+MQpA5qec=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		JrKlKbbyAk6Kktty6eNAs9a9g34=
+		/KifbgXYVXCO3NByhb/0S6Unfaw=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		H+nZu8NDwhr/HU1y3rOkMRQ5tzI=
+		/QQMxiOcNTbdpNWuwIy3HC+MOKU=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Na++4+KnGHjfWvM62uAaPAX70Js=
+		DAvigPToLZG+b9x4a0xy+A/vdLs=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fr0jvTvXko8eUQGqowfxD7tafSe83RmU31HZ0IdKMnw=
+			IwgVLXWrsH9iTXHz1QoPv1lTsYb40IykYM/GW6F/H2w=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fdOz71HbERAVTwnTEqA6ajQk7PfJ6Ld6GG1bHc7F4Iw=
+			pTNZEcZPywptwkHJPZYU79TiWJ193TK4/kg2t5ZpdcE=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -193,7 +193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3cgw5rZKDmQlxd+rpKjxmzHMBh8rfQ8/FuNDy/LSKtc=
+			5+EgxriQ2XY2TfvIcAJCcQ06BWn+nOX3sSNYro48sJM=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
