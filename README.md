@@ -51,6 +51,7 @@ viewController.descriptionColor = .lightGray
 viewController.descriptionFont = .systemFont(ofSize: 14)
 viewController.loadingText = "Loading..."
 viewController.activityIndicatorColor = .gray
+viewController.shouldSetMaxBrightness = true
 ```
 
 Delegate methods:
