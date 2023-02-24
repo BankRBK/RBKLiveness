@@ -2246,6 +2246,93 @@
           },
           {
             "kind": "Var",
+            "name": "shouldSetMaxBrightness",
+            "printedName": "shouldSetMaxBrightness",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
+            "moduleName": "RBKLiveness",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvg",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvg",
+                "moduleName": "RBKLiveness",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvs",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvs",
+                "moduleName": "RBKLiveness",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvM",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvM",
+                "moduleName": "RBKLiveness",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "actions",
             "printedName": "actions",
             "children": [
@@ -2453,6 +2540,38 @@
             "moduleName": "RBKLiveness",
             "overriding": true,
             "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@RBKLiveness@objc(cs)RBKLivenessViewController(im)viewWillDisappear:",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC17viewWillDisappearyySbF",
+            "moduleName": "RBKLiveness",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
             "declAttributes": [
               "Dynamic",
               "ObjC",
@@ -3061,6 +3180,20 @@
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "BooleanLiteral",
       "offset": 148,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1025,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 933,
       "length": 5,
       "value": "false"
     }
