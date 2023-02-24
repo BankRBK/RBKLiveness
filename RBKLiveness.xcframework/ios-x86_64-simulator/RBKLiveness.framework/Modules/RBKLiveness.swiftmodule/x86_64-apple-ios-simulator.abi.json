@@ -2261,8 +2261,8 @@
             "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
             "moduleName": "RBKLiveness",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
+              "Custom",
               "HasStorage",
               "AccessControl"
             ],
@@ -3153,8 +3153,15 @@
     },
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 963,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 870,
+      "offset": 871,
       "length": 5,
       "value": "false"
     }
