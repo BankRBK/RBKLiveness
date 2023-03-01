@@ -82,10 +82,6 @@ public enum RBKLivenessAction {
   @_Concurrency.MainActor(unsafe) weak public var dataSource: RBKLiveness.RBKLivenessDataSource?
   @_Concurrency.MainActor(unsafe) public var titleColor: UIKit.UIColor
   @_Concurrency.MainActor(unsafe) public var loadingText: Swift.String?
-  @_Concurrency.MainActor(unsafe) public var isRecordingEnabled: Swift.Bool {
-    get
-    set
-  }
   @_Concurrency.MainActor(unsafe) public var shouldSetMaxBrightness: Swift.Bool {
     get
     set
