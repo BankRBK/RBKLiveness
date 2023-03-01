@@ -50,8 +50,8 @@ public protocol RBKLivenessDelegate : AnyObject {
   func liveness(didCaptureFaceIn image: UIKit.UIImage)
   func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
   func liveness(didPassActionWith result: RBKLiveness.RBKLivenessResult)
-  func livenessDidSucceed()
   func liveness(didRecordVideoTo url: Foundation.URL)
+  func livenessDidSucceed()
 }
 extension RBKLiveness.RBKLivenessDelegate {
   public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
