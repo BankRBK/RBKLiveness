@@ -87,7 +87,7 @@ public enum RBKLivenessAction {
     get
     set
   }
-  @_Concurrency.MainActor(unsafe) public init(isVideoRecordingEnabled: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public init(isVideoRecordingEnabled: Swift.Bool = false)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)

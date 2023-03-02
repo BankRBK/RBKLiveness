@@ -30,7 +30,7 @@ func application(
 You can create a view controller that will capture face:
 
 ```swift
-let viewController = RBKLivenessViewController()
+let viewController = RBKLivenessViewController(isVideoRecordingEnabled: true) // isVideoRecordingEnabled is false by default
 
 // You can skip this step, it will be generated automatically
 viewController.actions = [.turnLeft, .turnRight, .tiltLeft, .tiltRight, .smile, .openMouth, .blink, .sayWord] // All available actions
@@ -64,6 +64,8 @@ extension YourViewController: RBKLivenessDelegate {
     func liveness(willPassAction action: RBKLivenessAction) {}
 
     func liveness(didPassActionWith result: RBKLivenessResult) {}
+
+    func liveness(didRecordVideoTo url: URL) {}
 
     func livenessDidSucceed() {}
 }
