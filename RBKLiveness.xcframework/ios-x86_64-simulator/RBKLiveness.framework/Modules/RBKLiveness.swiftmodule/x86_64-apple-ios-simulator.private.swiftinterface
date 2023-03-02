@@ -50,10 +50,12 @@ public protocol RBKLivenessDelegate : AnyObject {
   func liveness(didCaptureFaceIn image: UIKit.UIImage)
   func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
   func liveness(didPassActionWith result: RBKLiveness.RBKLivenessResult)
+  func liveness(didRecordVideoTo url: Foundation.URL)
   func livenessDidSucceed()
 }
 extension RBKLiveness.RBKLivenessDelegate {
   public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
+  public func liveness(didRecordVideoTo url: Foundation.URL)
 }
 @_hasMissingDesignatedInitializers final public class RBKLivenessApplication {
   final public class func register(completion: ((_ didRegister: Swift.Bool) -> Swift.Void)? = nil)
@@ -75,22 +77,20 @@ public enum RBKLivenessAction {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class RBKLivenessViewController : UIKit.UIViewController {
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class RBKLivenessViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) weak public var delegate: RBKLiveness.RBKLivenessDelegate?
   @_Concurrency.MainActor(unsafe) weak public var dataSource: RBKLiveness.RBKLivenessDataSource?
+  @_Concurrency.MainActor(unsafe) public var shouldSetMaxBrightness: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var titleColor: UIKit.UIColor
   @_Concurrency.MainActor(unsafe) public var loadingText: Swift.String?
-  @_Concurrency.MainActor(unsafe) public var shouldSetMaxBrightness: Swift.Bool {
-    get
-    set
-  }
   @_Concurrency.MainActor(unsafe) public var actions: [RBKLiveness.RBKLivenessAction] {
     get
     set
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) public init(isVideoRecordingEnabled: Swift.Bool = false)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
   @objc deinit
 }

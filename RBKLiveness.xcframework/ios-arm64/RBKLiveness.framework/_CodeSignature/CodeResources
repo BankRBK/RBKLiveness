@@ -36,26 +36,6 @@
 		<data>
 		DP+qJf0czliL6znGLVx90ASNzCY=
 		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		ptqn4roUq5tMxYkoDv116gHOowk=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		BhXzgVwS40fW172wwmOo1EAVOag=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		/oNPfTSWk213J66U6/hZ3iyV0a8=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		MhB3UG8viKa+dwO2iK7bMpceck0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		lMr7OdJUl2oIHOYY6u/bVk/vPEg=
-		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
 		oseYQ/EQxo7JsNpdNgo4YVLh7a4=
@@ -82,7 +62,7 @@
 		</data>
 		<key>Headers/RBKLiveness-Swift.h</key>
 		<data>
-		rOvVNkoSGJXZnH9rYSacQNfpne4=
+		Cbo/Xfc2CGoNEgtQHWijZd39phQ=
 		</data>
 		<key>Headers/RBKLiveness.h</key>
 		<data>
@@ -94,11 +74,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZHzHWCMG/rIV8YtQx0Q/a36ITao=
+		DxI8QVUkucSNP1GE83NcFs90LNI=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		thB2SmuagYez63Hba3wf6R63I+c=
+		SXj3aBoOmhHaqST6A+MUYOnhQ48=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -106,11 +86,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		thB2SmuagYez63Hba3wf6R63I+c=
+		SXj3aBoOmhHaqST6A+MUYOnhQ48=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		K3nd/LZgGcZuo108ZpTgcx09DNc=
+		UoMlIdVCzye+vnyj6/s7eWBgXr4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -175,41 +155,6 @@
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
 			</data>
 		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			973JrZJO2iuiERrGLm2hBzQNtgCseJ1yefEshh81p54=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ByjBIt6zms3trsnokrnlGJQMo6XiuN9lU1Mjp8RJ5PU=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tgpVL5/Zo1VOnpw2aUoUIaFV05JFmA13zV2ZUXaDS+c=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2gju7+eYFs+Uf0FIDqLbFLpDnmzKCESbbVyK2OSSbAk=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/BKKu+VJmARc/qrkFelYrf1jvt7WLIkQZMUACKnoDx0=
-			</data>
-		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<dict>
 			<key>hash2</key>
@@ -256,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ligu4372no00tkPFEuauDVm9UNuCJ5Kqk4ksYjRucKY=
+			uNKkZgoqIh/tLLqVusHaGrVnvsFhWHIMibN3uklekw4=
 			</data>
 		</dict>
 		<key>Headers/RBKLiveness.h</key>
@@ -270,14 +215,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1pLJs82MDmbDFkKq8gOsjb5bXkVVVE52XE88L/zSvV0=
+			Ut5++n5N1GBXowCE289o1rx6ruoQoRMqqAZHUwXMwYo=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JRz7vNLLWB2zgYoAzt+o0eDF5q/qxIQxm0jgL9PKdlo=
+			kgp4ATuZALLGZ3Jg6ht60m6Z0MNr/DZNS3fBszv/pd8=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -291,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JRz7vNLLWB2zgYoAzt+o0eDF5q/qxIQxm0jgL9PKdlo=
+			kgp4ATuZALLGZ3Jg6ht60m6Z0MNr/DZNS3fBszv/pd8=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3MsftNT2zxzX/R2I6lhz105FfwlskbdD8L5QK34zKDk=
+			urSrfBzuEwh1pr5a26nCa+tTAu/Qol0pWMf6BWBxJm0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

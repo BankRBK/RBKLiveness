@@ -7,7 +7,7 @@
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate RBKLiveness into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.1.0'
+pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.0'
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ func application(
 You can create a view controller that will capture face:
 
 ```swift
-let viewController = RBKLivenessViewController()
+let viewController = RBKLivenessViewController(isVideoRecordingEnabled: true) // isVideoRecordingEnabled is false by default
 
 // You can skip this step, it will be generated automatically
 viewController.actions = [.turnLeft, .turnRight, .tiltLeft, .tiltRight, .smile, .openMouth, .blink, .sayWord] // All available actions
@@ -64,6 +64,8 @@ extension YourViewController: RBKLivenessDelegate {
     func liveness(willPassAction action: RBKLivenessAction) {}
 
     func liveness(didPassActionWith result: RBKLivenessResult) {}
+
+    func liveness(didRecordVideoTo url: URL) {}
 
     func livenessDidSucceed() {}
 }
