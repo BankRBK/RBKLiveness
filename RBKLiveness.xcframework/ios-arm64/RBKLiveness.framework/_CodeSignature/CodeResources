@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/RBKLiveness-Swift.h</key>
 		<data>
-		MdkV6+qps4JagiSI4lCTtJkEMI4=
+		Cbo/Xfc2CGoNEgtQHWijZd39phQ=
 		</data>
 		<key>Headers/RBKLiveness.h</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		yHXKmPfbHUboW6wF31YajNL4e6Q=
+		wV6iAHs8qEyd77qgVRnkJsLcwiI=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		QdSNr8tRCn2oO3Z0rRbcpRAjk4w=
+		I80jrlzYPwXBIKPRdTQ4KgEwx4g=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		QdSNr8tRCn2oO3Z0rRbcpRAjk4w=
+		I80jrlzYPwXBIKPRdTQ4KgEwx4g=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		CWoK1N0zdB5/48EWnFUOrMBwEYw=
+		oifgAGAKada2++LlNGlJQbfycf0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -201,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KhLAy1/LJQqndyl+V+rCT0MLQm7rT0staNM7YPibWwk=
+			uNKkZgoqIh/tLLqVusHaGrVnvsFhWHIMibN3uklekw4=
 			</data>
 		</dict>
 		<key>Headers/RBKLiveness.h</key>
@@ -215,14 +215,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PvyAi62dzbt3q7BV5E/cXzrB7481kB1ZYhjweN9Ap/g=
+			QsHYI+48gnjYoC5EluxtEXJTC6Zc+3jSND2FQuOU1EE=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mmMKtllIptk9R90PxKbpsvFKen+MoVJN63RFVgbFDSQ=
+			LkySY94UlvceppI0z/oRqVBSjHUGKnx8np4XonDz5ow=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -236,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mmMKtllIptk9R90PxKbpsvFKen+MoVJN63RFVgbFDSQ=
+			LkySY94UlvceppI0z/oRqVBSjHUGKnx8np4XonDz5ow=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dbql+7i4iwYtLydqqwEDXOoIMhq3RMnYpsWeuxL1nVI=
+			yh2fjSOc9cQbIGMu7kD19vu6k2TzBnhYrTZLqWqi0FU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

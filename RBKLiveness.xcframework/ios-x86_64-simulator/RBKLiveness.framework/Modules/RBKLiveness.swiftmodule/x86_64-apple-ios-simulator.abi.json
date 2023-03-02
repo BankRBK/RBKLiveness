@@ -2386,93 +2386,6 @@
           },
           {
             "kind": "Var",
-            "name": "isVideoRecordingEnabled",
-            "printedName": "isVideoRecordingEnabled",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvp",
-            "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvp",
-            "moduleName": "RBKLiveness",
-            "declAttributes": [
-              "HasInitialValue",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvg",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvg",
-                "moduleName": "RBKLiveness",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvs",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvs",
-                "moduleName": "RBKLiveness",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvM",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvM",
-                "moduleName": "RBKLiveness",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "actions",
             "printedName": "actions",
             "children": [
@@ -2585,7 +2498,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(nibName:bundle:)",
+            "printedName": "init(isVideoRecordingEnabled:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2595,44 +2508,17 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@RBKLiveness@objc(cs)RBKLivenessViewController(im)initWithNibName:bundle:",
-            "mangledName": "$s11RBKLiveness0A14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledACSb_tcfc",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledACSb_tcfc",
             "moduleName": "RBKLiveness",
-            "overriding": true,
-            "objc_name": "initWithNibName:bundle:",
             "declAttributes": [
-              "Dynamic",
-              "ObjC",
               "Custom",
-              "Override",
               "AccessControl"
             ],
             "init_kind": "Designated"
@@ -2752,6 +2638,61 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RBKLivenessViewController",
+                "printedName": "RBKLiveness.RBKLivenessViewController",
+                "usr": "c:@M@RBKLiveness@objc(cs)RBKLivenessViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@RBKLiveness@objc(cs)RBKLivenessViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "RBKLiveness",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
           },
           {
             "kind": "Var",
@@ -3195,7 +3136,6 @@
         ],
         "superclassUsr": "c:objc(cs)UIViewController",
         "hasMissingDesignatedInitializers": true,
-        "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "UIKit.UIViewController",
           "UIKit.UIResponder",
@@ -3266,6 +3206,13 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 850,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 19,
@@ -3314,13 +3261,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1225,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
@@ -3365,16 +3305,16 @@
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 852,
+      "offset": 849,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 980,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 25,
+      "value": "\"RBKLiveness.RBKLivenessViewController\""
     }
   ]
 }
