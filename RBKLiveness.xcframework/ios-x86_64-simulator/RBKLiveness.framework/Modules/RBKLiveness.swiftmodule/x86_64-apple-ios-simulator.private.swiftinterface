@@ -80,9 +80,10 @@ public enum RBKLivenessAction {
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class RBKLivenessViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) weak public var delegate: RBKLiveness.RBKLivenessDelegate?
   @_Concurrency.MainActor(unsafe) weak public var dataSource: RBKLiveness.RBKLivenessDataSource?
+  @_Concurrency.MainActor(unsafe) public var shouldSetMaxBrightness: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var titleColor: UIKit.UIColor
   @_Concurrency.MainActor(unsafe) public var loadingText: Swift.String?
-  @_Concurrency.MainActor(unsafe) public var shouldSetMaxBrightness: Swift.Bool {
+  @_Concurrency.MainActor(unsafe) public var isVideoRecordingEnabled: Swift.Bool {
     get
     set
   }
@@ -93,6 +94,7 @@ public enum RBKLivenessAction {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
   @objc deinit
 }

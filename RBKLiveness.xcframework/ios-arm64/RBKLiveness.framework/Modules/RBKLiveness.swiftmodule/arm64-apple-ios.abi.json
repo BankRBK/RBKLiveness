@@ -2101,6 +2101,93 @@
           },
           {
             "kind": "Var",
+            "name": "shouldSetMaxBrightness",
+            "printedName": "shouldSetMaxBrightness",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
+            "moduleName": "RBKLiveness",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvg",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvg",
+                "moduleName": "RBKLiveness",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvs",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvs",
+                "moduleName": "RBKLiveness",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvM",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvM",
+                "moduleName": "RBKLiveness",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "titleColor",
             "printedName": "titleColor",
             "children": [
@@ -2299,8 +2386,8 @@
           },
           {
             "kind": "Var",
-            "name": "shouldSetMaxBrightness",
-            "printedName": "shouldSetMaxBrightness",
+            "name": "isVideoRecordingEnabled",
+            "printedName": "isVideoRecordingEnabled",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2310,8 +2397,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
-            "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvp",
+            "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvp",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvp",
             "moduleName": "RBKLiveness",
             "declAttributes": [
               "HasInitialValue",
@@ -2334,8 +2421,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvg",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvg",
+                "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvg",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvg",
                 "moduleName": "RBKLiveness",
                 "implicit": true,
                 "accessorKind": "get"
@@ -2358,8 +2445,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvs",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvs",
+                "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvs",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvs",
                 "moduleName": "RBKLiveness",
                 "implicit": true,
                 "accessorKind": "set"
@@ -2376,8 +2463,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvM",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC22shouldSetMaxBrightnessSbvM",
+                "usr": "s:11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvM",
+                "mangledName": "$s11RBKLiveness0A14ViewControllerC23isVideoRecordingEnabledSbvM",
                 "moduleName": "RBKLiveness",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -2593,6 +2680,38 @@
             "moduleName": "RBKLiveness",
             "overriding": true,
             "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidAppear",
+            "printedName": "viewDidAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@RBKLiveness@objc(cs)RBKLivenessViewController(im)viewDidAppear:",
+            "mangledName": "$s11RBKLiveness0A14ViewControllerC13viewDidAppearyySbF",
+            "moduleName": "RBKLiveness",
+            "overriding": true,
+            "objc_name": "viewDidAppear:",
             "declAttributes": [
               "Dynamic",
               "ObjC",
@@ -3147,6 +3266,13 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 335,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 19,
@@ -3238,15 +3364,15 @@
     },
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1025,
-      "length": 1,
-      "value": "1"
+      "kind": "BooleanLiteral",
+      "offset": 852,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 933,
+      "offset": 980,
       "length": 5,
       "value": "false"
     }
