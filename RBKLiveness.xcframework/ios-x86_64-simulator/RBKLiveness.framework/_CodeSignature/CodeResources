@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		EeqA5Oc2cDT21MQymPfj0lL/26g=
+		yHXKmPfbHUboW6wF31YajNL4e6Q=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		N8IARKVGc75bEWlHYxh1Y0glHmg=
+		Up6r1eTvpa+Q+lxnn3Xs1aVDCAI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -215,7 +215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hT5fK+8Fe5JpQ+Vhyw4hscABzX1qEZWwHZH/+8n0lI=
+			PvyAi62dzbt3q7BV5E/cXzrB7481kB1ZYhjweN9Ap/g=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -243,7 +243,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9QIJCtBbQRykWalJ6/Xal4iV/1r3yGf9VPM/EAPGuEQ=
+			O22BqgyahpYxw/30Xnqx9z3Co8WhI1PXNIuCnAIjcds=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

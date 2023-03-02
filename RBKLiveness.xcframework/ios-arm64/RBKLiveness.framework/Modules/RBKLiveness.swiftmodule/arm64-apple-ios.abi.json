@@ -3266,13 +3266,6 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 335,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKCameraController.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 19,
@@ -3319,6 +3312,13 @@
       "offset": 770,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1225,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/yessetmurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/CameraFocusFrameView.swift",
