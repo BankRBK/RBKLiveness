@@ -3404,590 +3404,611 @@
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1149,
+      "offset": 852,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1191,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 1321,
+      "offset": 1363,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 1691,
+      "offset": 1733,
       "length": 59,
       "value": "\"com.google.firebaseml.visiondetector.VideoDataOutputQueue\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 1887,
+      "offset": 1929,
       "length": 39,
       "value": "\"Failed to add capture session output.\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 2144,
+      "offset": 2186,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 2225,
+      "offset": 2267,
       "length": 6,
       "value": "\".mov\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 2303,
+      "offset": 2345,
       "length": 29,
       "value": "\"Unable to get temporary url\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 2340,
+      "offset": 2382,
       "length": 13,
       "value": "\"RBKLiveness\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3124,
+      "offset": 3166,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3456,
+      "offset": 3498,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3843,
+      "offset": 3885,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4215,
+      "offset": 4257,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 4696,
+      "offset": 4738,
       "length": 67,
       "value": "\"Failed to detect faces with error: \""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "StringLiteral",
-      "offset": 4761,
+      "offset": 4803,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5017,
+      "offset": 5059,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5167,
+      "offset": 5209,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5349,
+      "offset": 5391,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5560,
+      "offset": 5602,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5710,
+      "offset": 5752,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6313,
+      "offset": 6355,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6702,
+      "offset": 6744,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6728,
+      "offset": 6770,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6757,
+      "offset": 6799,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6791,
+      "offset": 6833,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6896,
+      "offset": 6938,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7057,
+      "offset": 7099,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7107,
+      "offset": 7149,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7141,
+      "offset": 7183,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7246,
+      "offset": 7288,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7406,
+      "offset": 7448,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7456,
+      "offset": 7498,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7490,
+      "offset": 7532,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7635,
+      "offset": 7677,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7796,
+      "offset": 7838,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7822,
+      "offset": 7864,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7851,
+      "offset": 7893,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7885,
+      "offset": 7927,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8030,
+      "offset": 8072,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8187,
+      "offset": 8229,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 8240,
+      "offset": 8282,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8347,
+      "offset": 8389,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8504,
+      "offset": 8546,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 8560,
+      "offset": 8602,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 8598,
+      "offset": 8640,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8705,
+      "offset": 8747,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8866,
+      "offset": 8908,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9032,
+      "offset": 9074,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9191,
+      "offset": 9233,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9398,
+      "offset": 9440,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 9710,
+      "offset": 9752,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9862,
+      "offset": 9904,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10856,
+      "offset": 10898,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 11118,
+      "offset": 11160,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11399,
+      "offset": 11441,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11616,
+      "offset": 11658,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11728,
+      "offset": 11770,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11991,
+      "offset": 12033,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12210,
+      "offset": 12252,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12261,
+      "offset": 12303,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 12314,
+      "offset": 12356,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 12370,
+      "offset": 12412,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12735,
+      "offset": 12777,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12911,
+      "offset": 12953,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13128,
+      "offset": 13170,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13173,
+      "offset": 13215,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13180,
+      "offset": 13222,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13211,
+      "offset": 13253,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13262,
+      "offset": 13304,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13269,
+      "offset": 13311,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13300,
+      "offset": 13342,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13377,
+      "offset": 13419,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13520,
+      "offset": 13562,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13553,
+      "offset": 13595,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13628,
+      "offset": 13670,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13789,
+      "offset": 13831,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13822,
+      "offset": 13864,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13897,
+      "offset": 13939,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 14659,
+      "offset": 14638,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14864,
+      "offset": 14904,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14993,
+      "offset": 15033,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15106,
+      "offset": 15146,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15282,
+      "offset": 15322,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15974,
+      "offset": 16014,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16044,
+      "offset": 16084,
       "length": 1,
       "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16534,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17515,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
@@ -3999,28 +4020,28 @@
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17377,
+      "offset": 18023,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17382,
+      "offset": 18028,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17417,
+      "offset": 18063,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17471,
+      "offset": 18117,
       "length": 1,
       "value": "1"
     },
@@ -4532,76 +4553,76 @@
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
       "offset": 257,
-      "length": 76,
-      "value": "\"https:\/\/armrbk.kazincombank.kz:30500\/check_version\/biometry_library\/check\/\""
+      "length": 68,
+      "value": "\"https:\/\/arm.bankrbk.kz:30500\/check_version\/biometry_library\/check\/\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
-      "offset": 645,
+      "offset": 637,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
-      "offset": 804,
+      "offset": 796,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
-      "offset": 990,
+      "offset": 982,
       "length": 13,
       "value": "\"RBKLiveness\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
-      "offset": 1083,
+      "offset": 1075,
       "length": 15,
       "value": "\"Status code: \""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
-      "offset": 1151,
+      "offset": 1143,
       "length": 21,
       "value": "\"Error description: \""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "BooleanLiteral",
-      "offset": 1284,
+      "offset": 1276,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "IntegerLiteral",
-      "offset": 1347,
+      "offset": 1339,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "IntegerLiteral",
-      "offset": 1353,
+      "offset": 1345,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "StringLiteral",
-      "offset": 1551,
+      "offset": 1543,
       "length": 10,
       "value": "\"is_exist\""
     },
     {
       "filePath": "\/Users\/ymurat\/Projects\/Frameworks\/RBKLivenessSource\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "BooleanLiteral",
-      "offset": 1607,
+      "offset": 1599,
       "length": 5,
       "value": "false"
     },

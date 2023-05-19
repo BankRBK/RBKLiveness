@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'RBKLiveness'
-  s.version = '1.2.1'
+  s.version = '1.2.2'
   s.summary = 'RBKLiveness'
   s.homepage = 'https://github.com/BankRBK/RBKLiveness'
   s.authors = { 'BankRBK' => 'murat_e@bankrbk.kz' }
