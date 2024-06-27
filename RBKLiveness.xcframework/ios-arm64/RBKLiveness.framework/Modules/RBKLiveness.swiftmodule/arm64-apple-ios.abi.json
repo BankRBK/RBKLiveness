@@ -621,6 +621,43 @@
             "usr": "s:11RBKLiveness0A7MessageO17imageCaptureErroryA2CmF",
             "mangledName": "$s11RBKLiveness0A7MessageO17imageCaptureErroryA2CmF",
             "moduleName": "RBKLiveness"
+          },
+          {
+            "kind": "Var",
+            "name": "launchedOnSimulator",
+            "printedName": "launchedOnSimulator",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(RBKLiveness.RBKLivenessMessage.Type) -> RBKLiveness.RBKLivenessMessage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RBKLivenessMessage",
+                    "printedName": "RBKLiveness.RBKLivenessMessage",
+                    "usr": "s:11RBKLiveness0A7MessageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "RBKLiveness.RBKLivenessMessage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RBKLivenessMessage",
+                        "printedName": "RBKLiveness.RBKLivenessMessage",
+                        "usr": "s:11RBKLiveness0A7MessageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11RBKLiveness0A7MessageO19launchedOnSimulatoryA2CmF",
+            "mangledName": "$s11RBKLiveness0A7MessageO19launchedOnSimulatoryA2CmF",
+            "moduleName": "RBKLiveness"
           }
         ],
         "declKind": "Enum",
@@ -1546,6 +1583,31 @@
           },
           {
             "kind": "Function",
+            "name": "livenessDidLaunchedOnSimulator",
+            "printedName": "livenessDidLaunchedOnSimulator()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@RBKLiveness@objc(pl)RBKLivenessDelegate(im)livenessDidLaunchedOnSimulator",
+            "mangledName": "$s11RBKLiveness0A8DelegateP30livenessDidLaunchedOnSimulatoryyF",
+            "moduleName": "RBKLiveness",
+            "genericSig": "<τ_0_0 where τ_0_0 : RBKLiveness.RBKLivenessDelegate>",
+            "sugared_genericSig": "<Self where Self : RBKLiveness.RBKLivenessDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "liveness",
             "printedName": "liveness(willPassAction:)",
             "children": [
@@ -1590,6 +1652,26 @@
             "declKind": "Func",
             "usr": "s:11RBKLiveness0A8DelegatePAAE8liveness16didRecordVideoToy10Foundation3URLV_tF",
             "mangledName": "$s11RBKLiveness0A8DelegatePAAE8liveness16didRecordVideoToy10Foundation3URLV_tF",
+            "moduleName": "RBKLiveness",
+            "genericSig": "<τ_0_0 where τ_0_0 : RBKLiveness.RBKLivenessDelegate>",
+            "sugared_genericSig": "<Self where Self : RBKLiveness.RBKLivenessDelegate>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "livenessDidLaunchedOnSimulator",
+            "printedName": "livenessDidLaunchedOnSimulator()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11RBKLiveness0A8DelegatePAAE30livenessDidLaunchedOnSimulatoryyF",
+            "mangledName": "$s11RBKLiveness0A8DelegatePAAE30livenessDidLaunchedOnSimulatoryyF",
             "moduleName": "RBKLiveness",
             "genericSig": "<τ_0_0 where τ_0_0 : RBKLiveness.RBKLivenessDelegate>",
             "sugared_genericSig": "<Self where Self : RBKLiveness.RBKLivenessDelegate>",
@@ -3686,6 +3768,13 @@
       "offset": 226,
       "length": 15,
       "value": "3"
+    },
+    {
+      "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKCameraController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 332,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKCameraController.swift",

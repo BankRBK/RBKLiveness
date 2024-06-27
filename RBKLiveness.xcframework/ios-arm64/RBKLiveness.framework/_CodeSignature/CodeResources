@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/RBKLiveness-Swift.h</key>
 		<data>
-		PkhLqxsUCoXtyEF1FTPiaJqUaO0=
+		PWQ6wfM2+Car38kC1j8+w6I2kpE=
 		</data>
 		<key>Headers/RBKLiveness.h</key>
 		<data>
@@ -74,23 +74,23 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		VmLXF54tXC518K3YgSHGClokmyI=
+		YvFXBbtlJK80j/eM6xMK7bd4gHM=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		aU8hizPsUg8hcPo+Gjs6httPu/k=
+		ZdGL6MMzHY4LxYbFf2XR3mF27EY=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		LCBUnWZ8a3thpOlA3Mf4G/OaUcs=
+		Y37CVCGpYC66Hbg+iNJKbEsr7lE=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		aU8hizPsUg8hcPo+Gjs6httPu/k=
+		ZdGL6MMzHY4LxYbFf2XR3mF27EY=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+Oj//lRACd46QW0THTxEaXjd+tM=
+		GfK82da8afJZmLteMmnILHyKZtg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -201,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iw18y0fqlvYtlEVcAwRI3WL0nnW14ncDUEgqLp9q76w=
+			JLHi4Pwdghl1ETLPy/ybTLXoy71D7wRHLxz19RmZ3cc=
 			</data>
 		</dict>
 		<key>Headers/RBKLiveness.h</key>
@@ -215,35 +215,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u0FmWScFfDJ2AAqM0P1jnr/BebITFaURNj2AXgAaYMc=
+			FCWdgJ7SoyKge/Qs/pgtv8dzrVwxQvHNqkGT84gnpRw=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wGx82qybaG6Oib99+CEjStga64zp7QCx6mzvaPOsChk=
+			8fi4MzfdHedDAd/cAGDgdKn/UyChQeGWhZZbsXB7Stc=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UxqZUH5XNPxFUacCKhfM80/sLF8IR0c5x7SVWuiSzG0=
+			+XEeZE340zcg7RFXzqKPUA0fYxP34IurVu0x6pMAq+M=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wGx82qybaG6Oib99+CEjStga64zp7QCx6mzvaPOsChk=
+			8fi4MzfdHedDAd/cAGDgdKn/UyChQeGWhZZbsXB7Stc=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7S4UOddTGOvWCwKUB3tsPFTU46L7AExy2OOsKC60IpE=
+			pZj4l4zBfvKzBiYsRijl2/f1yxyXx6BAfEyAt9Aa2IY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

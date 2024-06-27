@@ -366,6 +366,8 @@ SWIFT_PROTOCOL("_TtP11RBKLiveness19RBKLivenessDelegate_")
 - (void)livenessWithDidRecordVideoTo:(NSURL * _Nonnull)url;
 /// Called after the successful completion of all actions
 - (void)livenessDidSucceed;
+/// Called if launched on simulator or on device which has no front camera
+- (void)livenessDidLaunchedOnSimulator;
 @end
 
 
