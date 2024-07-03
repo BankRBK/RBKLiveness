@@ -6,16 +6,8 @@
 
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate RBKLiveness into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
-For iOS Swift projects:
-
 ```ruby
-pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.3'
-```
-
-For iOS Obj-C projects:
-
-```ruby
-pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.4'
+pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.5'
 ```
 
 ## Usage
@@ -76,6 +68,8 @@ extension YourViewController: RBKLivenessDelegate {
     func liveness(didRecordVideoTo url: URL) {}
 
     func livenessDidSucceed() {}
+
+    func livenessDidLaunchedOnSimulator() {}
 }
 ```
 
