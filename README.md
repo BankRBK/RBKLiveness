@@ -9,13 +9,7 @@
 For iOS Swift projects:
 
 ```ruby
-pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.3'
-```
-
-For iOS Obj-C projects:
-
-```ruby
-pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.4'
+pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.5'
 ```
 
 ## Usage
@@ -76,6 +70,8 @@ extension YourViewController: RBKLivenessDelegate {
     func liveness(didRecordVideoTo url: URL) {}
 
     func livenessDidSucceed() {}
+
+    func livenessDidLaunchedOnSimulator() {}
 }
 ```
 
