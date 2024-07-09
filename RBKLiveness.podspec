@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name = 'RBKLiveness'
-  s.version = '1.2.4'
+  s.version = '1.2.5'
   s.summary = 'RBKLiveness'
   s.homepage = 'https://github.com/BankRBK/RBKLiveness'
-  s.authors = { 'BankRBK' => 'murat_e@bankrbk.kz' }
+  s.authors = { 'BankRBK' => 'murat_es@bankrbk.kz' }
   s.source = { :git => 'https://github.com/BankRBK/RBKLiveness' }
   s.ios.deployment_target  = '13.0'
   s.default_subspec = 'Core'
