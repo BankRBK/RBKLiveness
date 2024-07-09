@@ -1,5 +1,9 @@
 # RBKLiveness
 
+## FYI
+
+We have moved the Objective-C support for this library to a separate project: [RBKLiveness-Objc](https://github.com/BankRBK/RBKLiveness-Objc). Please note that all new versions of RBKLiveness will no longer support Objective-C.
+
 ## Installation
 
 ### Cocoapods
