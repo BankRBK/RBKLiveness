@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
 // swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name RBKLiveness
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
@@ -63,11 +63,13 @@ extension RBKLiveness.RBKLivenessDataSource {
   @objc func liveness(didRecordVideoTo url: Foundation.URL)
   @objc func livenessDidSucceed()
   @objc func livenessDidLaunchedOnSimulator()
+  @objc func didTapFlashlightButton()
 }
 extension RBKLiveness.RBKLivenessDelegate {
   public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
   public func liveness(didRecordVideoTo url: Foundation.URL)
   public func livenessDidLaunchedOnSimulator()
+  public func didTapFlashlightButton()
 }
 @objc @_inheritsConvenienceInitializers final public class RBKLivenessApplication : ObjectiveC.NSObject {
   @objc final public class func register(completion: ((_ didRegister: Swift.Bool) -> Swift.Void)? = nil)
