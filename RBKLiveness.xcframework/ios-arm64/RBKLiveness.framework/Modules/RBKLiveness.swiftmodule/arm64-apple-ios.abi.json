@@ -3083,94 +3083,6 @@
           },
           {
             "kind": "Var",
-            "name": "userInterfaceStyle",
-            "printedName": "userInterfaceStyle",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIUserInterfaceStyle",
-                "printedName": "UIKit.UIUserInterfaceStyle",
-                "usr": "c:@E@UIUserInterfaceStyle"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0Vvp",
-            "mangledName": "$s11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0Vvp",
-            "moduleName": "RBKLiveness",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIUserInterfaceStyle",
-                    "printedName": "UIKit.UIUserInterfaceStyle",
-                    "usr": "c:@E@UIUserInterfaceStyle"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0Vvg",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0Vvg",
-                "moduleName": "RBKLiveness",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIUserInterfaceStyle",
-                    "printedName": "UIKit.UIUserInterfaceStyle",
-                    "usr": "c:@E@UIUserInterfaceStyle"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0Vvs",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0Vvs",
-                "moduleName": "RBKLiveness",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0VvM",
-                "mangledName": "$s11RBKLiveness0A14ViewControllerC18userInterfaceStyleSo06UIUsereF0VvM",
-                "moduleName": "RBKLiveness",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "actions",
             "printedName": "actions",
             "children": [
@@ -3198,7 +3110,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "hasStorage": true,
             "accessors": [
@@ -4411,7 +4324,7 @@
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1415,
+      "offset": 1425,
       "length": 5,
       "value": "false"
     },

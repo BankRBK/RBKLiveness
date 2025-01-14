@@ -98,10 +98,6 @@ extension RBKLiveness.RBKLivenessDelegate {
   @objc @_Concurrency.MainActor @preconcurrency public var shouldSetMaxBrightness: Swift.Bool
   @objc @_Concurrency.MainActor @preconcurrency public var titleColor: UIKit.UIColor
   @objc @_Concurrency.MainActor @preconcurrency public var loadingText: Swift.String?
-  @_Concurrency.MainActor @preconcurrency public var userInterfaceStyle: UIKit.UIUserInterfaceStyle {
-    get
-    set
-  }
   @_Concurrency.MainActor @preconcurrency public var actions: [RBKLiveness.RBKLivenessAction] {
     get
     set
