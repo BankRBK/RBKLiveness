@@ -3110,8 +3110,7 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "hasStorage": true,
             "accessors": [
@@ -4324,7 +4323,7 @@
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1425,
+      "offset": 1240,
       "length": 5,
       "value": "false"
     },
