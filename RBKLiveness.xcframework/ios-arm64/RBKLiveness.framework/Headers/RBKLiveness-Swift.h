@@ -372,7 +372,6 @@ SWIFT_PROTOCOL("_TtP11RBKLiveness19RBKLivenessDelegate_")
 - (void)livenessDidSucceed;
 /// Called if launched on simulator or on device which has no front camera
 - (void)livenessDidLaunchedOnSimulator;
-- (void)didTapFlashlightButton;
 @end
 
 

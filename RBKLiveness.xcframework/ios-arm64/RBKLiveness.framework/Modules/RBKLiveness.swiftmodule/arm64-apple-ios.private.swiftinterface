@@ -63,13 +63,11 @@ extension RBKLiveness.RBKLivenessDataSource {
   @objc func liveness(didRecordVideoTo url: Foundation.URL)
   @objc func livenessDidSucceed()
   @objc func livenessDidLaunchedOnSimulator()
-  @objc func didTapFlashlightButton()
 }
 extension RBKLiveness.RBKLivenessDelegate {
   public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
   public func liveness(didRecordVideoTo url: Foundation.URL)
   public func livenessDidLaunchedOnSimulator()
-  public func didTapFlashlightButton()
 }
 @objc @_inheritsConvenienceInitializers final public class RBKLivenessApplication : ObjectiveC.NSObject {
   @objc final public class func register(completion: ((_ didRegister: Swift.Bool) -> Swift.Void)? = nil)

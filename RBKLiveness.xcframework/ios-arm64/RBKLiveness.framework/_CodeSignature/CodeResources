@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/RBKLiveness-Swift.h</key>
 		<data>
-		qcIGHTMpxOnTkKwzDcQbjaIf4Sg=
+		xuvxjAVlGNQUfeY9+Xssx2hG9ug=
 		</data>
 		<key>Headers/RBKLiveness.h</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		sTqeuTkabf8ysNck3IozzCfKXQQ=
+		wv+M813mG/CRIfHTqxFNNpSPrP8=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		JxtPykOKUNnpDDuIc8TEUj7koOw=
+		mA2uxQ0IetKberJhb+5aUIRdVRM=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JxtPykOKUNnpDDuIc8TEUj7koOw=
+		mA2uxQ0IetKberJhb+5aUIRdVRM=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nzggpS3nR/Rl9pn2328ieJspDM8=
+		vMUlqWP7ao9acTNdWT+1Gd3AsSM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -201,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DG0SKNmLY6evS145pGJjlynyhgj66FVeopJYIGZSoeU=
+			7MYxKMDFHcpbJQdZVcCcEYri2uT5D3qewccjHTiDr/4=
 			</data>
 		</dict>
 		<key>Headers/RBKLiveness.h</key>
@@ -215,14 +215,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2nWPw2uBRYRRAps6PunjDixkz8f/8HsVBRlYbFnYcmA=
+			q83gvnV/3gmIp/iVrVSljyTb3Kx0ZEGvZ89Vp3Ps9L8=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nuNPzjVAccgbd1XhWXIDjwVXOsll/log9YQ6REMFZOE=
+			MYt4Ls+XeVQoQmePlF7hmBGrjydZDdG0xzOl6w2HBig=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -236,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nuNPzjVAccgbd1XhWXIDjwVXOsll/log9YQ6REMFZOE=
+			MYt4Ls+XeVQoQmePlF7hmBGrjydZDdG0xzOl6w2HBig=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uNABV/NbMLCgc9J61eNb2wFcMAq1mvSLQRNz2CAZ3YA=
+			dMYTIL10b0VOazvWrYK6IwiBCSx8EZH2I1X/iCXnuoI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

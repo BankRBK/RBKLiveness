@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/RBKLiveness-Swift.h</key>
 		<data>
-		v31ZIQJXctNOwiBeIis2Bc1dt0I=
+		2ivs4m+96Y8AdG9Nti9ce2wiZh4=
 		</data>
 		<key>Headers/RBKLiveness.h</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lsDioX/Exm+bcpCjRrmk+QKgfWE=
+		2cBGB3FCYh+cKTT87rcOJ8r0PAE=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QreaAIB4+nMd9CX803BuRlYlU0I=
+		I8+W/e6ybcdIQ1l8fgT8IFspHvA=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QreaAIB4+nMd9CX803BuRlYlU0I=
+		I8+W/e6ybcdIQ1l8fgT8IFspHvA=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IykeeSVlHlXSiWZgfyioQlyEpCU=
+		HBjbzjdwm3Q3HlktdJgLLNAdh30=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -201,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IylmZhg7u6phO/cYRC5uYOSe4v4pCb4k/SmFFU3Dxqk=
+			Q3CJzj8W1ashQaRfrXcJykQbTdAkV6O83FKDeDsbO0Y=
 			</data>
 		</dict>
 		<key>Headers/RBKLiveness.h</key>
@@ -215,14 +215,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A1qDBOSmWhlHZMS8v1i9u98M1E7otzGeholE5LV6XdY=
+			GC7OF00I+AeLevefV0kFejJe/A0W4ex/p2jhVjaSWpc=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3gdw5YPlRhNf1QrGPcwDyH2SITcHOOoh21M9eWGBW7g=
+			M+i8UUHXssfqHDE6fRYQuL0xY2ProOn9v+ArK5MF9yo=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -236,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3gdw5YPlRhNf1QrGPcwDyH2SITcHOOoh21M9eWGBW7g=
+			M+i8UUHXssfqHDE6fRYQuL0xY2ProOn9v+ArK5MF9yo=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tu2uCMa4t4XNBXa9ASgwOihKqx08H7A72CIYfl/y+w0=
+			USX0R7G09yyiIZ24s83iZMndQhfX9FwbeTYNhx/zomI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

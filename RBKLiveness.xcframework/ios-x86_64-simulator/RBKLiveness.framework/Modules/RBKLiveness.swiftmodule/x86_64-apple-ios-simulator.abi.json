@@ -1682,30 +1682,6 @@
           },
           {
             "kind": "Function",
-            "name": "didTapFlashlightButton",
-            "printedName": "didTapFlashlightButton()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@RBKLiveness@objc(pl)RBKLivenessDelegate(im)didTapFlashlightButton",
-            "mangledName": "$s11RBKLiveness0A8DelegateP22didTapFlashlightButtonyyF",
-            "moduleName": "RBKLiveness",
-            "genericSig": "<τ_0_0 where τ_0_0 : RBKLiveness.RBKLivenessDelegate>",
-            "sugared_genericSig": "<Self where Self : RBKLiveness.RBKLivenessDelegate>",
-            "protocolReq": true,
-            "declAttributes": [
-              "ObjC"
-            ],
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "liveness",
             "printedName": "liveness(willPassAction:)",
             "children": [
@@ -1770,26 +1746,6 @@
             "declKind": "Func",
             "usr": "s:11RBKLiveness0A8DelegatePAAE30livenessDidLaunchedOnSimulatoryyF",
             "mangledName": "$s11RBKLiveness0A8DelegatePAAE30livenessDidLaunchedOnSimulatoryyF",
-            "moduleName": "RBKLiveness",
-            "genericSig": "<τ_0_0 where τ_0_0 : RBKLiveness.RBKLivenessDelegate>",
-            "sugared_genericSig": "<Self where Self : RBKLiveness.RBKLivenessDelegate>",
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "didTapFlashlightButton",
-            "printedName": "didTapFlashlightButton()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:11RBKLiveness0A8DelegatePAAE22didTapFlashlightButtonyyF",
-            "mangledName": "$s11RBKLiveness0A8DelegatePAAE22didTapFlashlightButtonyyF",
             "moduleName": "RBKLiveness",
             "genericSig": "<τ_0_0 where τ_0_0 : RBKLiveness.RBKLivenessDelegate>",
             "sugared_genericSig": "<Self where Self : RBKLiveness.RBKLivenessDelegate>",
@@ -4316,14 +4272,14 @@
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1006,
+      "offset": 1307,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1291,
+      "offset": 1592,
       "length": 5,
       "value": "false"
     },
