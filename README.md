@@ -11,7 +11,7 @@ We have moved the Objective-C support for this library to a separate project: [R
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate RBKLiveness into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.5'
+pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '2.1.0'
 ```
 
 ## Usage
