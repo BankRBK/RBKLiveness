@@ -3964,217 +3964,217 @@
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10333,
+      "offset": 10292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11021,
+      "offset": 10980,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 11283,
+      "offset": 11242,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11564,
+      "offset": 11523,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11699,
+      "offset": 11658,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11787,
+      "offset": 11746,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11899,
+      "offset": 11858,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12162,
+      "offset": 12121,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12285,
+      "offset": 12244,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12387,
+      "offset": 12346,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12438,
+      "offset": 12397,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 12491,
+      "offset": 12450,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 12547,
+      "offset": 12506,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12857,
+      "offset": 12816,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12918,
+      "offset": 12877,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13094,
+      "offset": 13053,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13311,
+      "offset": 13270,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13356,
+      "offset": 13315,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13363,
+      "offset": 13322,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13394,
+      "offset": 13353,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13445,
+      "offset": 13404,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13452,
+      "offset": 13411,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13483,
+      "offset": 13442,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13560,
+      "offset": 13519,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13703,
+      "offset": 13662,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13736,
+      "offset": 13695,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13811,
+      "offset": 13770,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13972,
+      "offset": 13931,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14005,
+      "offset": 13964,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14080,
+      "offset": 14039,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/daulettungatarov\/Documents\/iOS\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14514,
+      "offset": 14473,
       "length": 4,
       "value": "true"
     },
