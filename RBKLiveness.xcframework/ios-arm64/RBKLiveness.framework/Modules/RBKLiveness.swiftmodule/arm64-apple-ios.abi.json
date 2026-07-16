@@ -369,6 +369,13 @@
       },
       {
         "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "RBKLiveness"
+      },
+      {
+        "kind": "Import",
         "name": "MLKitVision",
         "printedName": "MLKitVision",
         "declKind": "Import",
@@ -3842,6 +3849,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -3878,420 +3892,420 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAlert.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAlert.swift",
       "kind": "IntegerLiteral",
       "offset": 176,
       "length": 10,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAlert.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAlert.swift",
       "kind": "IntegerLiteral",
       "offset": 196,
       "length": 20,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAlert.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAlert.swift",
       "kind": "IntegerLiteral",
       "offset": 226,
       "length": 15,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKCameraController.swift",
       "kind": "BooleanLiteral",
       "offset": 332,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 456,
+      "offset": 476,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 572,
+      "offset": 592,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 603,
+      "offset": 623,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 635,
+      "offset": 655,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 744,
+      "offset": 764,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "Dictionary",
-      "offset": 811,
+      "offset": 831,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 852,
+      "offset": 872,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1191,
+      "offset": 1211,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10292,
+      "offset": 10312,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10980,
+      "offset": 11000,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 11242,
+      "offset": 11262,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11523,
+      "offset": 11543,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11658,
+      "offset": 11678,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11746,
+      "offset": 11766,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11858,
+      "offset": 11878,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12121,
+      "offset": 12141,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12244,
+      "offset": 12264,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12346,
+      "offset": 12366,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12397,
+      "offset": 12417,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 12450,
+      "offset": 12470,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "FloatLiteral",
-      "offset": 12506,
+      "offset": 12526,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12816,
+      "offset": 12836,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12877,
+      "offset": 12897,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13053,
+      "offset": 13073,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13270,
+      "offset": 13290,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13315,
+      "offset": 13335,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13322,
+      "offset": 13342,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13353,
+      "offset": 13373,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13404,
+      "offset": 13424,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13411,
+      "offset": 13431,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13442,
+      "offset": 13462,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13519,
+      "offset": 13539,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13662,
+      "offset": 13682,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13695,
+      "offset": 13715,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13770,
+      "offset": 13790,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13931,
+      "offset": 13951,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13964,
+      "offset": 13984,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14039,
+      "offset": 14059,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessCameraController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14473,
+      "offset": 14493,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/CameraFocusFrameView.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/CameraFocusFrameView.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 324,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/CameraFocusFrameView.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/CameraFocusFrameView.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Utils\/UIColor+extension.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Utils\/UIColor+extension.swift",
       "kind": "IntegerLiteral",
       "offset": 256,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessManager.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessManager.swift",
       "kind": "FloatLiteral",
       "offset": 288,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Utils\/RBKLivenessApplication.swift",
       "kind": "BooleanLiteral",
       "offset": 148,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 171,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 189,
       "length": 9,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 208,
       "length": 8,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 226,
       "length": 9,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 245,
       "length": 5,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 260,
       "length": 9,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/Camera\/RBKLivenessAction.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 7,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1348,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/builds\/9raAGzQZ3\/0\/ios\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
+      "filePath": "\/Users\/rbkuser\/builds\/B4J7zc2eN\/0\/ios\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1633,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rbkuser\/Library\/Developer\/Xcode\/DerivedData\/RBKLiveness-basxvauslmcsxsewyqfrtbuctnpt\/Build\/Intermediates.noindex\/DependentBuilds\/RBKLiveness.build\/Release-iphoneos\/RBKLiveness.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/rbkuser\/Library\/Developer\/Xcode\/DerivedData\/RBKLiveness-ghrblflvmzeyujdlzefvtsjkvxcj\/Build\/Intermediates.noindex\/DependentBuilds\/RBKLiveness.build\/Release-iphoneos\/RBKLiveness.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 12,
       "value": "\"flashlight\""
     },
     {
-      "filePath": "\/Users\/rbkuser\/Library\/Developer\/Xcode\/DerivedData\/RBKLiveness-basxvauslmcsxsewyqfrtbuctnpt\/Build\/Intermediates.noindex\/DependentBuilds\/RBKLiveness.build\/Release-iphoneos\/RBKLiveness.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/rbkuser\/Library\/Developer\/Xcode\/DerivedData\/RBKLiveness-ghrblflvmzeyujdlzefvtsjkvxcj\/Build\/Intermediates.noindex\/DependentBuilds\/RBKLiveness.build\/Release-iphoneos\/RBKLiveness.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 881,
       "length": 15,
