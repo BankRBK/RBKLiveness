@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
-// swift-module-flags: -target arm64-apple-ios16.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name RBKLiveness
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
+// swift-compiler-version: Apple Swift version 6.3 effective-5.10 (swiftlang-6.3.0.123.5 clang-2100.0.123.102)
+// swift-module-flags: -target arm64-apple-ios16.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name RBKLiveness
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3
 import AVFoundation
 import CoreVideo
 import DeveloperToolsSupport
@@ -20,9 +20,7 @@ import _SwiftConcurrencyShims
   case singleFace
   case straightHeadOpenEyes
   case headOutOfBounds
-  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
-  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
@@ -37,32 +35,20 @@ public enum RBKLivenessMessage {
   case launchedOnSimulator
 }
 @objc public protocol RBKLivenessDataSource {
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc func liveness(textForAlert alert: RBKLiveness.RBKLivenessAlert) -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc func liveness(textForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc func liveness(descriptionTextForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc func liveness(textForPassedAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
-  #endif
+  @objc optional func liveness(descriptionTextForAlert alert: RBKLiveness.RBKLivenessAlert) -> Swift.String?
+  @objc optional func livenessTextForWrongDirection() -> Swift.String?
+  @objc optional func livenessTextForFaceTooFar() -> Swift.String?
+  @objc optional func livenessDescriptionTextForFaceTooFar() -> Swift.String?
 }
 extension RBKLiveness.RBKLivenessDataSource {
-  #if compiler(>=5.3) && $NonescapableTypes
   public func liveness(textForAlert alert: RBKLiveness.RBKLivenessAlert) -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   public func liveness(textForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   public func liveness(descriptionTextForAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   public func liveness(textForPassedAction action: RBKLiveness.RBKLivenessAction) -> Swift.String?
-  #endif
 }
 @_inheritsConvenienceInitializers @objcMembers @objc(RBKLivenessActionsSetter) public class RBKLivenessActionsSetter : ObjectiveC.NSObject {
   @objc public static func setActions(to controller: RBKLiveness.RBKLivenessViewController, byValues values: [Foundation.NSNumber])
@@ -82,6 +68,8 @@ extension RBKLiveness.RBKLivenessDataSource {
   @objc func liveness(didRecordVideoTo url: Foundation.URL)
   @objc func livenessDidSucceed()
   @objc func livenessDidLaunchedOnSimulator()
+  @objc optional func livenessDidRequestClose()
+  @objc optional func liveness(_ controller: RBKLiveness.RBKLivenessViewController, didChangeSoundEnabled isEnabled: Swift.Bool)
 }
 extension RBKLiveness.RBKLivenessDelegate {
   public func liveness(willPassAction action: RBKLiveness.RBKLivenessAction)
@@ -89,9 +77,7 @@ extension RBKLiveness.RBKLivenessDelegate {
   public func livenessDidLaunchedOnSimulator()
 }
 @objc @_inheritsConvenienceInitializers final public class RBKLivenessApplication : ObjectiveC.NSObject {
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc final public class func register(completion: ((_ didRegister: Swift.Bool) -> Swift.Void)? = nil)
-  #endif
   @objc override dynamic public init()
   @objc deinit
 }
@@ -105,9 +91,7 @@ extension RBKLiveness.RBKLivenessDelegate {
   case openMouth
   case sayWord
   public static func generate() -> [RBKLiveness.RBKLivenessAction]
-  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
-  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
