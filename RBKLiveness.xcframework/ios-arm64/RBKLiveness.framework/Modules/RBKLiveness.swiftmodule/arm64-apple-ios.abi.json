@@ -4529,14 +4529,28 @@
     {
       "filePath": "\/Users\/rbkusser\/Documents\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2017,
+      "offset": 1892,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rbkusser\/Documents\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2336,
+      "offset": 1937,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rbkusser\/Documents\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2153,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rbkusser\/Documents\/liveness\/RBKLiveness\/RBKLivenessViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2472,
       "length": 5,
       "value": "false"
     },

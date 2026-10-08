@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		LXOyjE6OxNTIZ3JHv4ag2UTgkQU=
+		CN5Rz92Y7Rfsvx9+etZFrs6cQDg=
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+bEheL9Lf740itKufS2P/ECKYb4=
+		CtI9J+zlOXfbzCHTMHYXfaXe0lI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -355,7 +355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vfae8S3AmbiuHgyNcNPczq+VJNqFz2fTIN2+hdPilbg=
+			ox6zIdikj0s+JCCbQ8ul23hvLQBK45l6nNfEAjzQm6k=
 			</data>
 		</dict>
 		<key>Modules/RBKLiveness.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -383,7 +383,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h38ciX6boP0OxjbcgO6yL50sMMQm5J43TRmiFtajGrE=
+			D+9lzFwGoQ9R0eplWa56B2oCSx64mgSNsawiG7ZayOw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
